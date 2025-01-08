@@ -513,3 +513,506 @@ Reason: Banned by an operator.
 [15:17:21] [Server thread/INFO]: [Server] so thats it
 [15:17:34] [Thread-35/INFO]: UUID of player SIGMABOYS__ is cdf92fc0-a6b0-32cc-bb11-bb0c7ab1c087
 [15:17:34] [Server thread/INFO]: SIGMABOYS__[/[0:0:0:0:0:0:0:1]:44120] logged in with entity id 8502 at ([world]-235.5, 64.0, 242.5)
+[15:17:41] [Async Chat Thread - #5/INFO]: <CingDC2012> OP ME NOW[m
+
+[15:17:44] [Async Chat Thread - #5/INFO]: <i_like_men> where done with your enchantment abuse habit[m
+
+[15:17:45] [Async Chat Thread - #5/INFO]: <CingDC2012> PLS[m
+
+[15:17:53] [Server thread/INFO]: CingDC2012 was shot by i_like_men using [THE WEEWEE TOUCHER]
+[15:18:00] [Server thread/INFO]: SIGMABOYS__ was burnt to a crisp whilst fighting i_like_men
+[15:18:01] [Async Chat Thread - #5/INFO]: <CingDC2012> U knnow what[m
+
+[15:18:11] [Async Chat Thread - #5/INFO]: <SIGMABOYS__> dont kill me[m
+
+[15:18:13] [Async Chat Thread - #5/INFO]: <CingDC2012> Imma tell doctor neime[m
+
+[15:18:16] [Server thread/INFO]: CingDC2012 lost connection: Disconnected
+[15:18:16] [Server thread/INFO]: CingDC2012 left the game.
+[15:18:21] [Async Chat Thread - #5/INFO]: <i_like_men> srry thought that was someone elses house[m
+
+[15:18:28] [Async Chat Thread - #5/INFO]: <SIGMABOYS__> its my house[m
+
+[15:18:32] [Async Chat Thread - #5/INFO]: <i_like_men> YAHIR[m
+
+[15:18:41] [Async Chat Thread - #5/INFO]: <i_like_men> YAHIR[m
+
+[15:18:46] [Async Chat Thread - #5/INFO]: <SIGMABOYS__> i got greifed[m
+
+[15:18:56] [Server thread/INFO]: i_like_men issued server command: /kill
+[15:18:56] [Server thread/INFO]: i_like_men fell out of the world
+[15:18:56] [Server thread/INFO]: [i_like_men: Killed i_like_men]
+[15:18:59] [Thread-36/INFO]: UUID of player KingXtranicLOL is 5ef0f4fd-451b-3609-bc6d-aaca6dbe8efb
+[15:18:59] [Server thread/INFO]: KingXtranicLOL[/[0:0:0:0:0:0:0:1]:60012] logged in with entity id 8745 at ([world]-215.89305167460515, 64.0, 260.0635894168689)
+[15:19:13] [Async Chat Thread - #5/INFO]: <SIGMABOYS__> i like men i got greifed[m
+
+[15:19:26] [Server thread/INFO]: KingXtranicLOL issued server command: /gamemode c
+[15:19:28] [Thread-37/INFO]: UUID of player rip_my_drone is 82cb4512-56bb-3d5f-84c6-394f68b640aa
+[15:19:28] [Server thread/INFO]: rip_my_drone[/[0:0:0:0:0:0:0:1]:42394] logged in with entity id 8799 at ([world]-255.30000001192093, 64.0, 274.060589737408)
+[15:19:34] [Async Chat Thread - #5/INFO]: <KingXtranicLOL> Hi chat[m
+
+[15:19:40] [Server thread/INFO]: SIGMABOYS__ was shot by Skeleton
+[15:19:46] [Server thread/INFO]: KingXtranicLOL lost connection: Disconnected
+[15:19:46] [Server thread/INFO]: KingXtranicLOL left the game.
+[15:19:54] [Server thread/INFO]: rip_my_drone fell out of the world
+[15:20:02] [Server thread/INFO]: SIGMABOYS__ was slain by Zombie
+[15:20:06] [Server thread/INFO]: i_like_men issued server command: /give @p minecraft:bow 1 0 {ench:[{id:49,lvl:9999}]}
+[15:20:06] [Server thread/INFO]: [i_like_men: Given [Bow] * 1 to i_like_men]
+[15:20:15] [Server thread/INFO]: rip_my_drone was slain by Zombie
+[15:20:15] [Thread-38/INFO]: UUID of player CingDC2012 is 49e28057-17f5-35d4-b0e6-498f151b657e
+[15:20:15] [Server thread/INFO]: CingDC2012[/[0:0:0:0:0:0:0:1]:34384] logged in with entity id 9104 at ([world]-225.5, 64.0, 264.5)
+[15:20:40] [Server thread/INFO]: CingDC2012 lost connection: Disconnected
+[15:20:40] [Server thread/INFO]: CingDC2012 left the game.
+[15:20:44] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 74 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 74 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1490) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[15:20:44] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 81 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 81 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1490) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[15:21:11] [Async Chat Thread - #6/INFO]: <SIGMABOYS__> i like men[m
+
+[15:21:18] [Server thread/INFO]: [Server] what.
+[15:21:29] [Async Chat Thread - #6/INFO]: <SIGMABOYS__> i got greifed[m
+
+[15:21:36] [Server thread/INFO]: rip_my_drone was slain by Zombie
+[15:21:45] [Async Chat Thread - #6/INFO]: <SIGMABOYS__> it was by kingdc2012[m
+
+[15:21:59] [Async Chat Thread - #6/INFO]: <i_like_men> yahir[m
+
+[15:22:35] [Server thread/INFO]: i_like_men issued server command: /give @p minecraft:stick 1 0 {ench:[{id:16,lvl:99999}]}
+[15:22:35] [Server thread/INFO]: [i_like_men: Given [Stick] * 1 to i_like_men]
+[15:22:42] [Server thread/INFO]: SIGMABOYS__ was shot by rip_my_drone
+[15:22:51] [Server thread/INFO]: i_like_men issued server command: /give @p minecraft:stick 1 0 {ench:[{id:19,lvl:9999}]}
+[15:22:51] [Server thread/INFO]: [i_like_men: Given [Stick] * 1 to i_like_men]
+[15:23:05] [Server thread/INFO]: i_like_men issued server command: /give @p minecraft:stick 1 0 {ench:[{id:16,lvl:9999}]}
+[15:23:05] [Server thread/INFO]: [i_like_men: Given [Stick] * 1 to i_like_men]
+[15:23:12] [Server thread/INFO]: rip_my_drone was slain by SIGMABOYS__
+[15:23:19] [Async Chat Thread - #7/INFO]: <SIGMABOYS__> stop killing me[m
+
+[15:23:28] [Server thread/INFO]: Carson was slain by i_like_men
+[15:23:29] [Server thread/INFO]: Carson lost connection: Disconnected
+[15:23:29] [Server thread/INFO]: Carson left the game.
+[15:23:35] [Server thread/INFO]: i_like_men lost connection: Disconnected
+[15:23:35] [Server thread/INFO]: i_like_men left the game.
+[15:23:39] [Server thread/INFO]: SIGMABOYS__ was slain by rip_my_drone
+[15:23:43] [Server thread/INFO]: rip_my_drone lost connection: Disconnected
+[15:23:43] [Server thread/INFO]: rip_my_drone left the game.
+[15:24:00] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 81 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 81 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1490) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[15:25:52] [Server thread/INFO]: SIGMABOYS__ lost connection: Disconnected
+[15:25:52] [Server thread/INFO]: SIGMABOYS__ left the game.
+[15:42:38] [Thread-40/INFO]: UUID of player HelldiverD12 is 6c131084-e502-3b2a-9d20-df5202c5619d
+[15:42:38] [Server thread/INFO]: HelldiverD12[/[0:0:0:0:0:0:0:1]:39468] logged in with entity id 10224 at ([world]-240.58762943384738, 64.0, 271.47196387480875)
+[15:43:08] [Server thread/INFO]: HelldiverD12 lost connection: Login timed out!
+[15:43:08] [Server thread/INFO]: HelldiverD12 left the game.
+[15:43:08] [Server thread/WARN]: handleDisconnection() called twice
+[15:44:25] [Thread-41/INFO]: UUID of player HelldiverD12 is 6c131084-e502-3b2a-9d20-df5202c5619d
+[15:44:25] [Server thread/INFO]: HelldiverD12[/[0:0:0:0:0:0:0:1]:39464] logged in with entity id 10228 at ([world]-240.58762943384738, 64.0, 271.47196387480875)
+[15:44:25] [Thread-42/INFO]: UUID of player rip_my_drone is 82cb4512-56bb-3d5f-84c6-394f68b640aa
+[15:44:25] [Server thread/INFO]: rip_my_drone[/[0:0:0:0:0:0:0:1]:39476] logged in with entity id 10229 at ([world]-245.9622008158403, 64.0, 240.33581192256932)
+[15:44:27] [Thread-43/INFO]: UUID of player Gaige_c is c021df60-81de-3f00-9b66-51979bd0f5d7
+[15:44:27] [Server thread/INFO]: Gaige_c[/[0:0:0:0:0:0:0:1]:39482] logged in with entity id 10230 at ([world]-245.99104132370553, 68.0, 227.00045259430408)
+[15:44:52] [Server thread/INFO]: Gaige_c issued server command: /gamemode s
+[15:44:52] [Server thread/INFO]: [Gaige_c: Set own game mode to Survival Mode]
+[15:45:10] [Server thread/INFO]: Gaige_c issued server command: /gamemode c
+[15:45:10] [Server thread/INFO]: [Gaige_c: Set own game mode to Creative Mode]
+[15:45:22] [Server thread/INFO]: Gaige_c issued server command: /gamemode s
+[15:45:22] [Server thread/INFO]: [Gaige_c: Set own game mode to Survival Mode]
+[15:45:29] [Async Chat Thread - #8/INFO]: <HelldiverD12> why cant i mine blocks?[m
+
+[15:45:36] [Async Chat Thread - #8/INFO]: <rip_my_drone> spawn protection[m
+
+[15:45:41] [Async Chat Thread - #8/INFO]: <rip_my_drone> imma touch you[m
+
+[15:45:46] [Async Chat Thread - #8/INFO]: <HelldiverD12> no even in the woods[m
+
+[15:45:58] [Server thread/INFO]: Gaige_c fell out of the world
+[15:46:04] [Async Chat Thread - #8/INFO]: <rip_my_drone> your too close the range is 160 blocks[m
+
+[15:46:06] [Server thread/INFO]: HelldiverD12 lost connection: Disconnected
+[15:46:06] [Server thread/INFO]: HelldiverD12 left the game.
+[15:46:08] [Server thread/INFO]: Gaige_c lost connection: Disconnected
+[15:46:08] [Server thread/INFO]: Gaige_c left the game.
+[15:46:12] [Server thread/INFO]: rip_my_drone lost connection: Disconnected
+[15:46:12] [Server thread/INFO]: rip_my_drone left the game.
+[15:47:23] [Thread-44/INFO]: UUID of player Carson is 09e01081-6807-3e1e-8005-f0082c54e779
+[15:47:23] [Server thread/INFO]: Carson[/[0:0:0:0:0:0:0:1]:45954] logged in with entity id 11014 at ([world]-260.30000001192093, 64.58230961125521, 279.23750001192093)
+[15:47:52] [Thread-45/INFO]: UUID of player Gaige_c is c021df60-81de-3f00-9b66-51979bd0f5d7
+[15:47:52] [Server thread/INFO]: Gaige_c[/[0:0:0:0:0:0:0:1]:60328] logged in with entity id 11520 at ([world]-240.328183028433, 64.0, 278.7206195383333)
+[15:48:23] [Thread-46/INFO]: UUID of player SIGMABOYS__ is cdf92fc0-a6b0-32cc-bb11-bb0c7ab1c087
+[15:48:23] [Server thread/INFO]: SIGMABOYS__[/[0:0:0:0:0:0:0:1]:53812] logged in with entity id 11535 at ([world]-262.7483695686858, 64.5, 280.35358540813434)
+[15:48:24] [Thread-47/INFO]: UUID of player I_NICE is c40402b5-f4a8-3ca4-98bb-79bcadfcf39f
+[15:48:24] [Server thread/INFO]: I_NICE[/[0:0:0:0:0:0:0:1]:53818] logged in with entity id 11536 at ([world]-328.79342558730167, 69.0, 370.98335510492274)
+[15:48:33] [Server thread/INFO]: Gaige_c issued server command: /gamemode c
+[15:48:33] [Server thread/INFO]: [Gaige_c: Set own game mode to Creative Mode]
+[15:48:42] [Server thread/INFO]: I_NICE lost connection: Disconnected
+[15:48:42] [Server thread/INFO]: I_NICE left the game.
+[15:49:25] [Thread-48/INFO]: UUID of player Axell_vic is 38482278-bb96-3d7b-b423-c62844ef1acd
+[15:49:25] [Server thread/INFO]: Axell_vic[/[0:0:0:0:0:0:0:1]:37900] logged in with entity id 12173 at ([world]-250.1689431724313, 64.0, 279.79635220179415)
+[15:49:39] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> hi axxel[m
+
+[15:49:40] [Async Chat Thread - #9/INFO]: <Axell_vic> hello[m
+
+[15:49:48] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> i got greifed[m
+
+[15:49:52] [Async Chat Thread - #9/INFO]: <Axell_vic> wdym[m
+
+[15:49:54] [Server thread/INFO]: Carson has just earned the achievement [Taking Inventory]
+[15:50:01] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> and i lost all of my armor[m
+
+[15:50:07] [Async Chat Thread - #9/INFO]: <Axell_vic> dang[m
+
+[15:50:10] [Async Chat Thread - #9/INFO]: <Axell_vic> i gtg[m
+
+[15:50:12] [Server thread/INFO]: Axell_vic lost connection: Disconnected
+[15:50:12] [Server thread/INFO]: Axell_vic left the game.
+[15:50:18] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> can i have all dimond armor[m
+
+[15:50:32] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> carson[m
+
+[15:50:42] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> press t to go into chat[m
+
+[15:51:01] [Thread-49/INFO]: UUID of player Bacon01 is dd92c97d-f93a-369a-b246-db0cfab3f217
+[15:51:01] [Server thread/INFO]: Bacon01[/[0:0:0:0:0:0:0:1]:54978] logged in with entity id 12635 at ([world]-269.7800762589593, 57.0, 252.98304985955133)
+[15:51:06] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> bacon[m
+
+[15:51:14] [Server thread/INFO]: Usage: /op <player>
+[15:51:22] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> i got greifed[m
+
+[15:51:24] [Server thread/INFO]: [Server] why did dylan go too far?
+[15:51:37] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> can i have my dimond gear back[m
+
+[15:51:45] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+
+[15:51:45] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+
+[15:51:45] [Server thread/INFO]: Debug logging is disabled
+[15:51:45] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[15:51:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[15:51:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:51:45] [Server thread/INFO]: Data value allowed items: 
+[15:51:45] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+
+[15:51:45] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+
+[15:51:45] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+
+[15:51:45] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+[15:51:45] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+[15:51:45] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+
+[15:51:45] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+
+[15:51:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.reload(CraftServer.java:716)
+
+[15:51:45] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:556)
+
+[15:51:45] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:25)
+
+[15:51:45] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:146)
+
+[15:51:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:666)
+
+[15:51:45] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchServerCommand(CraftServer.java:629)
+
+[15:51:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.aO(DedicatedServer.java:416)
+
+[15:51:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:379)
+
+[15:51:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+
+[15:51:45] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+
+[15:51:45] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[15:51:45] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:51:45] [Server thread/INFO]: Mob Spawn Range: 4
+[15:51:45] [Server thread/INFO]: Anti X-Ray: true
+[15:51:45] [Server thread/INFO]: 	Engine Mode: 1
+[15:51:45] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:51:45] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:51:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:51:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:51:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:51:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:51:45] [Server thread/INFO]: Random Lighting Updates: false
+[15:51:45] [Server thread/INFO]: Structure Info Saving: true
+[15:51:45] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:51:45] [Server thread/INFO]: Max Entity Collisions: 8
+[15:51:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:51:45] [Server thread/INFO]: Max TNT Explosions: 100
+[15:51:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:51:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:51:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:51:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:51:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:51:45] [Server thread/INFO]: View Distance: 4
+[15:51:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:51:45] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:51:45] [Server thread/INFO]: Clear tick list: false
+[15:51:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:51:45] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:51:45] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[15:51:45] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[15:51:45] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[15:51:45] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[15:51:45] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[15:51:45] [Server thread/INFO]: Water over lava flow speed: 5
+[15:51:45] [Server thread/INFO]: Fix TNT cannons: false
+[15:51:45] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[15:51:45] [Server thread/INFO]: Keep spawn chunk loaded: true
+[15:51:45] [Server thread/INFO]: World async lighting: false
+[15:51:45] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[15:51:45] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[15:51:45] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:51:45] [Server thread/INFO]: Mob Spawn Range: 4
+[15:51:45] [Server thread/INFO]: Anti X-Ray: true
+[15:51:45] [Server thread/INFO]: 	Engine Mode: 1
+[15:51:45] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:51:45] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:51:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:51:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:51:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:51:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:51:45] [Server thread/INFO]: Random Lighting Updates: false
+[15:51:45] [Server thread/INFO]: Structure Info Saving: true
+[15:51:45] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:51:45] [Server thread/INFO]: Max Entity Collisions: 8
+[15:51:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:51:45] [Server thread/INFO]: Max TNT Explosions: 100
+[15:51:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:51:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:51:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:51:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:51:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:51:45] [Server thread/INFO]: View Distance: 4
+[15:51:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:51:45] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:51:45] [Server thread/INFO]: Clear tick list: false
+[15:51:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:51:45] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:51:45] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[15:51:45] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[15:51:45] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[15:51:45] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[15:51:45] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[15:51:45] [Server thread/INFO]: Water over lava flow speed: 5
+[15:51:45] [Server thread/INFO]: Fix TNT cannons: false
+[15:51:45] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[15:51:45] [Server thread/INFO]: Keep spawn chunk loaded: true
+[15:51:45] [Server thread/INFO]: World async lighting: false
+[15:51:45] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[15:51:45] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[15:51:45] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:51:45] [Server thread/INFO]: Mob Spawn Range: 4
+[15:51:45] [Server thread/INFO]: Anti X-Ray: true
+[15:51:45] [Server thread/INFO]: 	Engine Mode: 1
+[15:51:45] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:51:45] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:51:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:51:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:51:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:51:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:51:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:51:45] [Server thread/INFO]: Random Lighting Updates: false
+[15:51:45] [Server thread/INFO]: Structure Info Saving: true
+[15:51:45] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:51:45] [Server thread/INFO]: Max Entity Collisions: 8
+[15:51:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:51:45] [Server thread/INFO]: Max TNT Explosions: 100
+[15:51:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:51:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:51:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:51:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:51:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:51:45] [Server thread/INFO]: View Distance: 4
+[15:51:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:51:45] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:51:45] [Server thread/INFO]: Clear tick list: false
+[15:51:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:51:45] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:51:45] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[15:51:45] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[15:51:45] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[15:51:45] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[15:51:45] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[15:51:45] [Server thread/INFO]: Water over lava flow speed: 5
+[15:51:45] [Server thread/INFO]: Fix TNT cannons: false
+[15:51:45] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[15:51:45] [Server thread/INFO]: Keep spawn chunk loaded: true
+[15:51:45] [Server thread/INFO]: World async lighting: false
+[15:51:45] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[15:51:45] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[15:51:45] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[15:51:45] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[15:51:45] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[15:51:45] [Server thread/INFO]: [Random_Teleport] Disabling Random_Teleport v1.1
+[15:51:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[15:51:45] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[15:51:45] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[15:51:45] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[15:51:45] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[15:51:45] [Server thread/WARN]: Plugin `Random_Teleport v1.1' uses the space-character (0x20) in its name `Random Teleport' - this is discouraged
+[15:51:46] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[15:51:46] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[15:51:46] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[15:51:46] [Server thread/INFO]: [Random_Teleport] Loading Random_Teleport v1.1
+[15:51:46] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[15:51:46] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[15:51:46] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[15:51:46] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+
+[15:51:46] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[15:51:46] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[15:51:46] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[15:51:46] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:51:46] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[15:51:46] [Server thread/INFO]: [Random_Teleport] Enabling Random_Teleport v1.1
+[15:51:46] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[15:51:46] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[15:51:46] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[15:51:46] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[15:51:46] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[15:51:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:51:46] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+
+[15:51:46] [Server thread/INFO]: Timings Reset
+[15:51:46] [Craft Scheduler Thread - 11/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+
+[15:51:46] [Craft Scheduler Thread - 11/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+
+[15:51:46] [Craft Scheduler Thread - 11/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+
+[15:52:00] [Server thread/INFO]: Bacon01 lost connection: Disconnected
+[15:52:00] [Server thread/INFO]: Bacon01 left the game.
+[15:52:23] [Thread-52/INFO]: UUID of player Bacon01 is dd92c97d-f93a-369a-b246-db0cfab3f217
+[15:52:23] [Server thread/INFO]: Bacon01[/[0:0:0:0:0:0:0:1]:42290] logged in with entity id 13258 at ([world]-295.0395129640507, 64.0, 258.6703313876023)
+[15:52:41] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> bacon can i have dimond grae back[m
+
+[15:52:49] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> gear[m
+
+[15:53:10] [Server thread/INFO]: Bacon01 lost connection: Disconnected
+[15:53:10] [Server thread/INFO]: Bacon01 left the game.
+[15:53:21] [Async Chat Thread - #9/INFO]: <SIGMABOYS__> i need my dimond gear back[m
+
+[15:53:21] [Server thread/INFO]: Gaige_c lost connection: Disconnected
+[15:53:21] [Server thread/INFO]: Gaige_c left the game.
+[15:53:34] [Thread-53/INFO]: UUID of player Bacon01 is dd92c97d-f93a-369a-b246-db0cfab3f217
+[15:53:34] [Server thread/INFO]: Bacon01[/[0:0:0:0:0:0:0:1]:56868] logged in with entity id 13452 at ([world]-251.41561346389747, 64.0, 255.06232221622486)
+[15:53:37] [Thread-54/INFO]: UUID of player Gaige_c is c021df60-81de-3f00-9b66-51979bd0f5d7
+[15:53:37] [Server thread/INFO]: Gaige_c[/[0:0:0:0:0:0:0:1]:56882] logged in with entity id 13453 at ([world]-247.46039512681043, 68.0, 225.40891697060252)
+[15:53:53] [Server thread/INFO]: Gaige_c lost connection: Disconnected
+[15:53:53] [Server thread/INFO]: Gaige_c left the game.
+[15:53:54] [Server thread/INFO]: Bacon01 lost connection: Disconnected
+[15:53:54] [Server thread/INFO]: Bacon01 left the game.
+[15:54:42] [Async Chat Thread - #10/INFO]: <SIGMABOYS__> is anyoe on[m
+
+[15:55:44] [Server thread/INFO]: SIGMABOYS__ fell out of the world
+[15:56:39] [Server thread/INFO]: SIGMABOYS__ has just earned the achievement [Taking Inventory]
+[15:57:31] [Server thread/INFO]: [Server] no
+[15:57:54] [Server thread/INFO]: SIGMABOYS__ lost connection: Disconnected
+[15:57:54] [Server thread/INFO]: SIGMABOYS__ left the game.
+[15:59:07] [Thread-56/INFO]: UUID of player Axell_vic is 38482278-bb96-3d7b-b423-c62844ef1acd
+[15:59:07] [Server thread/INFO]: Axell_vic[/[0:0:0:0:0:0:0:1]:48036] logged in with entity id 14174 at ([world]-252.12389123263242, 64.0, 268.67707218745664)
+[15:59:22] [Server thread/INFO]: Axell_vic lost connection: Disconnected
+[15:59:22] [Server thread/INFO]: Axell_vic left the game.
+[15:59:22] [Async Chat Thread - #11/INFO]: <Carson> bye[m
+
+[15:59:27] [Server thread/INFO]: Carson lost connection: Disconnected
+[15:59:27] [Server thread/INFO]: Carson left the game.
