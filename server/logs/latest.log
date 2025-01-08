@@ -1,0 +1,515 @@
+[14:32:19] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[14:32:19] [Server thread/INFO]: Loading properties
+[14:32:20] [Server thread/INFO]: Default game type: SURVIVAL
+[14:32:20] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[14:32:21] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[14:32:21] [Server thread/INFO]: Debug logging is disabled
+[14:32:21] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[14:32:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[14:32:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:32:21] [Server thread/INFO]: Data value allowed items: 
+[14:32:21] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+
+[14:32:21] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+
+[14:32:21] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+
+[14:32:21] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+[14:32:21] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+[14:32:21] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+
+[14:32:21] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+
+[14:32:21] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+
+[14:32:21] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+
+[14:32:21] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[14:32:21] [Server thread/INFO]: Generating keypair
+[14:32:22] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[14:32:22] [Server thread/INFO]: Using default channel type
+[14:32:22] [Server thread/WARN]: Plugin `Random_Teleport v1.1' uses the space-character (0x20) in its name `Random Teleport' - this is discouraged
+[14:32:22] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:32:22] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.4
+[14:32:22] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[14:32:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[14:32:22] [Server thread/INFO]: [Random_Teleport] Loading Random_Teleport v1.1
+[14:32:22] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[14:32:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:32:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:32:22] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[14:32:22] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[14:32:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:32:22] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:32:22] [Server thread/INFO]: Preparing level "world"
+[14:32:22] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:32:22] [Server thread/INFO]: Mob Spawn Range: 4
+[14:32:22] [Server thread/INFO]: Anti X-Ray: true
+[14:32:22] [Server thread/INFO]: 	Engine Mode: 1
+[14:32:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:32:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:32:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:32:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:32:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:32:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:32:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:32:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:32:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:32:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:32:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:32:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:32:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:32:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:32:22] [Server thread/INFO]: Random Lighting Updates: false
+[14:32:22] [Server thread/INFO]: Structure Info Saving: true
+[14:32:22] [Server thread/INFO]: Sending up to 10 chunks per packet
+[14:32:22] [Server thread/INFO]: Max Entity Collisions: 8
+[14:32:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:32:22] [Server thread/INFO]: Max TNT Explosions: 100
+[14:32:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:32:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:32:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:32:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:32:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:32:22] [Server thread/INFO]: View Distance: 4
+[14:32:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:32:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:32:22] [Server thread/INFO]: Clear tick list: false
+[14:32:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:32:22] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:32:22] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[14:32:22] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[14:32:22] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[14:32:22] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[14:32:23] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[14:32:23] [Server thread/INFO]: Water over lava flow speed: 5
+[14:32:23] [Server thread/INFO]: Fix TNT cannons: false
+[14:32:23] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[14:32:23] [Server thread/INFO]: Keep spawn chunk loaded: true
+[14:32:23] [Server thread/INFO]: World async lighting: false
+[14:32:23] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[14:32:23] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[14:32:23] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:32:23] [Server thread/INFO]: Mob Spawn Range: 4
+[14:32:23] [Server thread/INFO]: Anti X-Ray: true
+[14:32:23] [Server thread/INFO]: 	Engine Mode: 1
+[14:32:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:32:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:32:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:32:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:32:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:32:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:32:23] [Server thread/INFO]: Random Lighting Updates: false
+[14:32:23] [Server thread/INFO]: Structure Info Saving: true
+[14:32:23] [Server thread/INFO]: Sending up to 10 chunks per packet
+[14:32:23] [Server thread/INFO]: Max Entity Collisions: 8
+[14:32:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:32:23] [Server thread/INFO]: Max TNT Explosions: 100
+[14:32:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:32:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:32:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:32:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:32:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:32:23] [Server thread/INFO]: View Distance: 4
+[14:32:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:32:23] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:32:23] [Server thread/INFO]: Clear tick list: false
+[14:32:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:32:23] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:32:23] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[14:32:23] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[14:32:23] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[14:32:23] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[14:32:23] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[14:32:23] [Server thread/INFO]: Water over lava flow speed: 5
+[14:32:23] [Server thread/INFO]: Fix TNT cannons: false
+[14:32:23] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[14:32:23] [Server thread/INFO]: Keep spawn chunk loaded: true
+[14:32:23] [Server thread/INFO]: World async lighting: false
+[14:32:23] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[14:32:23] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[14:32:23] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:32:23] [Server thread/INFO]: Mob Spawn Range: 4
+[14:32:23] [Server thread/INFO]: Anti X-Ray: true
+[14:32:23] [Server thread/INFO]: 	Engine Mode: 1
+[14:32:23] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:32:23] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:32:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:32:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:32:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:32:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:32:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:32:23] [Server thread/INFO]: Random Lighting Updates: false
+[14:32:23] [Server thread/INFO]: Structure Info Saving: true
+[14:32:23] [Server thread/INFO]: Sending up to 10 chunks per packet
+[14:32:23] [Server thread/INFO]: Max Entity Collisions: 8
+[14:32:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:32:23] [Server thread/INFO]: Max TNT Explosions: 100
+[14:32:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:32:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:32:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:32:23] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:32:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:32:23] [Server thread/INFO]: View Distance: 4
+[14:32:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:32:23] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:32:23] [Server thread/INFO]: Clear tick list: false
+[14:32:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:32:23] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:32:23] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[14:32:23] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[14:32:23] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[14:32:23] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[14:32:23] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[14:32:23] [Server thread/INFO]: Water over lava flow speed: 5
+[14:32:23] [Server thread/INFO]: Fix TNT cannons: false
+[14:32:23] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[14:32:23] [Server thread/INFO]: Keep spawn chunk loaded: true
+[14:32:23] [Server thread/INFO]: World async lighting: false
+[14:32:23] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[14:32:23] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[14:32:23] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6603076531557797851)
+[14:32:24] [Server thread/INFO]: Preparing spawn area: 4%
+[14:32:25] [Server thread/INFO]: Preparing spawn area: 21%
+[14:32:26] [Server thread/INFO]: Preparing spawn area: 32%
+[14:32:27] [Server thread/INFO]: Preparing spawn area: 65%
+[14:32:28] [Server thread/INFO]: Preparing spawn area: 92%
+[14:32:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6603076531557797851)
+[14:32:29] [Server thread/INFO]: Preparing spawn area: 9%
+[14:32:30] [Server thread/INFO]: Preparing spawn area: 68%
+[14:32:30] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6603076531557797851)
+[14:32:31] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[14:32:31] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[14:32:31] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+
+[14:32:31] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[14:32:31] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[14:32:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[14:32:31] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:32:31] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[14:32:31] [Server thread/INFO]: [Random_Teleport] Enabling Random_Teleport v1.1
+[14:32:31] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[14:32:32] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[14:32:32] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[14:32:32] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[14:32:32] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[14:32:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:32:32] [Server thread/INFO]: Done (9.695s)! For help, type "help" or "?"
+[14:32:32] [Server thread/INFO]: Timings Reset
+[14:32:33] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+
+[14:32:33] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+
+[14:32:33] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+
+[14:53:11] [Thread-8/INFO]: UUID of player SIGMA_BOYS is 65defd76-b50f-3caa-97c9-d103e3983652
+[14:53:11] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7f3f28a1[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@28dbc57e], isEaglerPlayer=[com.mojang.authlib.properties.Property@548282b5]},legacy=false] (/[0:0:0:0:0:0:0:1]:59798): You are banned from this server!
+Reason: Banned by an operator.
+[14:53:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f3f28a1[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@28dbc57e], isEaglerPlayer=[com.mojang.authlib.properties.Property@548282b5]},legacy=false] (/[0:0:0:0:0:0:0:1]:59798) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:54:43] [Thread-9/INFO]: UUID of player rip_my_drone is 82cb4512-56bb-3d5f-84c6-394f68b640aa
+[14:54:43] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@39a31018[id=82cb4512-56bb-3d5f-84c6-394f68b640aa,name=rip_my_drone,properties={textures=[com.mojang.authlib.properties.Property@18610472], isEaglerPlayer=[com.mojang.authlib.properties.Property@1c5e93a6]},legacy=false] (/[0:0:0:0:0:0:0:1]:59412): You are banned from this server!
+Reason: Banned by an operator.
+[14:54:43] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@39a31018[id=82cb4512-56bb-3d5f-84c6-394f68b640aa,name=rip_my_drone,properties={textures=[com.mojang.authlib.properties.Property@18610472], isEaglerPlayer=[com.mojang.authlib.properties.Property@1c5e93a6]},legacy=false] (/[0:0:0:0:0:0:0:1]:59412): You are banned from this server!
+Reason: Banned by an operator.
+[14:54:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@39a31018[id=82cb4512-56bb-3d5f-84c6-394f68b640aa,name=rip_my_drone,properties={textures=[com.mojang.authlib.properties.Property@18610472], isEaglerPlayer=[com.mojang.authlib.properties.Property@1c5e93a6]},legacy=false] (/[0:0:0:0:0:0:0:1]:59412) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:54:47] [Thread-10/INFO]: UUID of player rip_my_drone is 82cb4512-56bb-3d5f-84c6-394f68b640aa
+[14:54:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2ac18556[id=82cb4512-56bb-3d5f-84c6-394f68b640aa,name=rip_my_drone,properties={textures=[com.mojang.authlib.properties.Property@404b710d], isEaglerPlayer=[com.mojang.authlib.properties.Property@4474fddc]},legacy=false] (/[0:0:0:0:0:0:0:1]:59422): You are banned from this server!
+Reason: Banned by an operator.
+[14:54:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2ac18556[id=82cb4512-56bb-3d5f-84c6-394f68b640aa,name=rip_my_drone,properties={textures=[com.mojang.authlib.properties.Property@404b710d], isEaglerPlayer=[com.mojang.authlib.properties.Property@4474fddc]},legacy=false] (/[0:0:0:0:0:0:0:1]:59422): You are banned from this server!
+Reason: Banned by an operator.
+[14:54:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ac18556[id=82cb4512-56bb-3d5f-84c6-394f68b640aa,name=rip_my_drone,properties={textures=[com.mojang.authlib.properties.Property@404b710d], isEaglerPlayer=[com.mojang.authlib.properties.Property@4474fddc]},legacy=false] (/[0:0:0:0:0:0:0:1]:59422) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:55:26] [Thread-11/INFO]: UUID of player HelldiverD12 is 6c131084-e502-3b2a-9d20-df5202c5619d
+[14:55:26] [Server thread/INFO]: HelldiverD12[/[0:0:0:0:0:0:0:1]:45864] logged in with entity id 732 at ([world]-244.02963331231783, 64.0, 272.3786168330146)
+[14:55:47] [Thread-12/INFO]: UUID of player I_NICE is c40402b5-f4a8-3ca4-98bb-79bcadfcf39f
+[14:55:47] [Server thread/INFO]: I_NICE[/[0:0:0:0:0:0:0:1]:46772] logged in with entity id 757 at ([world]-239.4002063337624, 64.0, 269.7111990902405)
+[14:56:10] [Async Chat Thread - #0/INFO]: <HelldiverD12> i need my kill count bigger[m
+
+[14:56:12] [Async Chat Thread - #0/INFO]: <HelldiverD12> sorry[m
+
+[14:57:07] [Server thread/INFO]: I_NICE issued server command: /wild
+[14:57:18] [Thread-13/INFO]: UUID of player SIGMA_BOYS is 65defd76-b50f-3caa-97c9-d103e3983652
+[14:57:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6d9f2942[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@781d3dfc], isEaglerPlayer=[com.mojang.authlib.properties.Property@68cff419]},legacy=false] (/[0:0:0:0:0:0:0:1]:34382): You are banned from this server!
+Reason: Banned by an operator.
+[14:57:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d9f2942[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@781d3dfc], isEaglerPlayer=[com.mojang.authlib.properties.Property@68cff419]},legacy=false] (/[0:0:0:0:0:0:0:1]:34382) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:57:27] [Server thread/INFO]: I_NICE fell from a high place
+[14:57:32] [Async Chat Thread - #1/INFO]: <HelldiverD12> can you chop wood?[m
+
+[14:57:32] [Server thread/INFO]: [Server] who was that?
+[14:57:40] [Async Chat Thread - #1/INFO]: <HelldiverD12> Its coal[m
+
+[14:57:41] [Server thread/INFO]: [Server] who got banned
+[14:57:43] [Server thread/INFO]: I_NICE issued server command: /who are u server
+[14:57:49] [Server thread/INFO]: [Server] the owner
+[14:57:51] [Async Chat Thread - #1/INFO]: <I_NICE> I got banned on my first account[m
+
+[14:57:58] [Server thread/INFO]: [Server] what is it?
+[14:58:05] [Async Chat Thread - #1/INFO]: <I_NICE> it is helldiver32[m
+
+[14:58:12] [Async Chat Thread - #1/INFO]: <I_NICE> can u aslo unban sigmaboys[m
+
+[14:58:15] [Server thread/INFO]: Could not unban player Helldiver32
+[14:58:22] [Async Chat Thread - #1/INFO]: <I_NICE> Dylan abused power[m
+
+[14:58:23] [Async Chat Thread - #1/INFO]: <HelldiverD12> server, can you unban rip_my_drone?[m
+
+[14:58:38] [Server thread/INFO]: HelldiverD12 was slain by Zombie
+[14:58:39] [Thread-14/INFO]: UUID of player Gaige_c is c021df60-81de-3f00-9b66-51979bd0f5d7
+[14:58:39] [Server thread/INFO]: Gaige_c[/[0:0:0:0:0:0:0:1]:53572] logged in with entity id 1266 at ([world]-245.79629786910596, 68.0, 227.3595372144823)
+[14:58:40] [Server thread/INFO]: [Server] why?
+[14:58:47] [Server thread/INFO]: Unbanned player rip_my_drone
+[14:58:50] [Async Chat Thread - #1/INFO]: <HelldiverD12> texture pack[m
+
+[14:58:54] [Async Chat Thread - #1/INFO]: <I_NICE> We were banned for no reason[m
+
+[14:59:03] [Async Chat Thread - #1/INFO]: <HelldiverD12> the gun one[m
+
+[14:59:06] [Server thread/INFO]: HelldiverD12 lost connection: Disconnected
+[14:59:06] [Server thread/INFO]: HelldiverD12 left the game.
+[14:59:07] [Server thread/INFO]: Unbanned player SIGMA_BOYS
+[14:59:08] [Server thread/INFO]: I_NICE lost connection: Disconnected
+[14:59:08] [Server thread/INFO]: I_NICE left the game.
+[14:59:12] [Server thread/INFO]: Gaige_c lost connection: Internal Exception: java.net.SocketException: Connection reset
+[14:59:12] [Server thread/INFO]: Gaige_c left the game.
+[15:00:32] [Thread-15/INFO]: UUID of player i_like_men is ae381115-f7cd-3f30-a457-a71521595c0c
+[15:00:32] [Server thread/INFO]: i_like_men[/[0:0:0:0:0:0:0:1]:56938] logged in with entity id 1343 at ([world]-238.7904402960347, 64.0, 278.5769794794038)
+[15:01:51] [Server thread/INFO]: i_like_men issued server command: /wild
+[15:01:56] [Server thread/INFO]: i_like_men issued server command: /re
+[15:01:58] [Server thread/INFO]: i_like_men issued server command: /kill
+[15:01:58] [Server thread/INFO]: i_like_men fell out of the world
+[15:01:58] [Server thread/INFO]: [i_like_men: Killed i_like_men]
+[15:02:21] [Thread-16/INFO]: UUID of player CingDC2012 is 49e28057-17f5-35d4-b0e6-498f151b657e
+[15:02:21] [Server thread/INFO]: CingDC2012[/[0:0:0:0:0:0:0:1]:51588] logged in with entity id 1943 at ([world]-256.10116485210096, 64.0, 279.83805593443674)
+[15:02:57] [Server thread/INFO]: CingDC2012 issued server command: /gamemode s
+[15:03:04] [Server thread/INFO]: CingDC2012 lost connection: Disconnected
+[15:03:04] [Server thread/INFO]: CingDC2012 left the game.
+[15:03:15] [Thread-17/INFO]: UUID of player rip_my_drone is 82cb4512-56bb-3d5f-84c6-394f68b640aa
+[15:03:15] [Server thread/INFO]: rip_my_drone[/[0:0:0:0:0:0:0:1]:36940] logged in with entity id 2212 at ([world_nether]-36.422762265449556, 56.0, 37.16200403380293)
+[15:03:18] [Thread-18/INFO]: UUID of player Creeper4860 is 55448d8f-3276-33b9-8f2d-f77ec62813e3
+[15:03:18] [Server thread/INFO]: Creeper4860[/[0:0:0:0:0:0:0:1]:36942] logged in with entity id 2247 at ([world]-251.80102812954038, 64.0, 286.0299746684147)
+[15:03:27] [Server thread/INFO]: rip_my_drone lost connection: Disconnected
+[15:03:27] [Server thread/INFO]: rip_my_drone left the game.
+[15:03:29] [Server thread/INFO]: i_like_men lost connection: Disconnected
+[15:03:29] [Server thread/INFO]: i_like_men left the game.
+[15:03:37] [Server thread/INFO]: Creeper4860 issued server command: /op CingDC2012
+[15:03:37] [Server thread/INFO]: [Creeper4860: Opped CingDC2012]
+[15:03:40] [Server thread/INFO]: Creeper4860 lost connection: Disconnected
+[15:03:40] [Server thread/INFO]: Creeper4860 left the game.
+[15:03:51] [Thread-19/INFO]: UUID of player CingDC2012 is 49e28057-17f5-35d4-b0e6-498f151b657e
+[15:03:52] [Server thread/INFO]: CingDC2012[/[0:0:0:0:0:0:0:1]:34406] logged in with entity id 2356 at ([world]-260.4365539285192, 64.0, 274.7565016330096)
+[15:04:47] [Thread-20/INFO]: UUID of player SIGMA_BOYS is 65defd76-b50f-3caa-97c9-d103e3983652
+[15:04:47] [Server thread/INFO]: SIGMA_BOYS[/[0:0:0:0:0:0:0:1]:56584] logged in with entity id 2508 at ([world]-226.1515520934446, 64.0, 264.5102815711746)
+[15:05:01] [Server thread/INFO]: CingDC2012 issued server command: /ban SIGMA_BOYS
+[15:05:01] [Server thread/INFO]: SIGMA_BOYS lost connection: You are banned from this server.
+[15:05:01] [Server thread/INFO]: SIGMA_BOYS left the game.
+[15:05:01] [Server thread/INFO]: [CingDC2012: Banned player SIGMA_BOYS]
+[15:05:01] [Server thread/WARN]: handleDisconnection() called twice
+[15:05:07] [Thread-21/INFO]: UUID of player SIGMA_BOYS is 65defd76-b50f-3caa-97c9-d103e3983652
+[15:05:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7aadc5e6[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@1b609577], isEaglerPlayer=[com.mojang.authlib.properties.Property@3d3dacdc]},legacy=false] (/[0:0:0:0:0:0:0:1]:54728): You are banned from this server!
+Reason: Banned by an operator.
+[15:05:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@7aadc5e6[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@1b609577], isEaglerPlayer=[com.mojang.authlib.properties.Property@3d3dacdc]},legacy=false] (/[0:0:0:0:0:0:0:1]:54728) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:05:15] [Thread-22/INFO]: UUID of player SIGMA_BOYS is 65defd76-b50f-3caa-97c9-d103e3983652
+[15:05:15] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@a87d2d1[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@4012fea4], isEaglerPlayer=[com.mojang.authlib.properties.Property@92e9504]},legacy=false] (/[0:0:0:0:0:0:0:1]:40784): You are banned from this server!
+Reason: Banned by an operator.
+[15:05:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@a87d2d1[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@4012fea4], isEaglerPlayer=[com.mojang.authlib.properties.Property@92e9504]},legacy=false] (/[0:0:0:0:0:0:0:1]:40784) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:05:19] [Thread-23/INFO]: UUID of player SIGMA_BOYS is 65defd76-b50f-3caa-97c9-d103e3983652
+[15:05:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6d66d370[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@29570f3a], isEaglerPlayer=[com.mojang.authlib.properties.Property@5de00c5e]},legacy=false] (/[0:0:0:0:0:0:0:1]:40792): You are banned from this server!
+Reason: Banned by an operator.
+[15:05:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d66d370[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@29570f3a], isEaglerPlayer=[com.mojang.authlib.properties.Property@5de00c5e]},legacy=false] (/[0:0:0:0:0:0:0:1]:40792) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:05:24] [Thread-24/INFO]: UUID of player rip_my_drone is 82cb4512-56bb-3d5f-84c6-394f68b640aa
+[15:05:24] [Server thread/INFO]: rip_my_drone[/[0:0:0:0:0:0:0:1]:33826] logged in with entity id 2679 at ([world_nether]-36.422762265449556, 56.0, 37.16200403380293)
+[15:05:25] [Server thread/INFO]: CingDC2012 issued server command: /clear snow
+[15:05:25] [Server thread/INFO]: [CingDC2012: That player cannot be found]
+[15:05:28] [Server thread/INFO]: CingDC2012 lost connection: Disconnected
+[15:05:28] [Server thread/INFO]: CingDC2012 left the game.
+[15:05:33] [Thread-25/INFO]: UUID of player Carson is 09e01081-6807-3e1e-8005-f0082c54e779
+[15:05:33] [Server thread/INFO]: Carson[/[0:0:0:0:0:0:0:1]:53168] logged in with entity id 2714 at ([world]-335.06232899353535, 81.0, 436.2313483016061)
+[15:05:42] [Thread-26/INFO]: UUID of player SIGMA_BOYS is 65defd76-b50f-3caa-97c9-d103e3983652
+[15:05:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1b75207b[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@21f10393], isEaglerPlayer=[com.mojang.authlib.properties.Property@76413ed7]},legacy=false] (/[0:0:0:0:0:0:0:1]:44544): You are banned from this server!
+Reason: Banned by an operator.
+[15:05:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b75207b[id=65defd76-b50f-3caa-97c9-d103e3983652,name=SIGMA_BOYS,properties={textures=[com.mojang.authlib.properties.Property@21f10393], isEaglerPlayer=[com.mojang.authlib.properties.Property@76413ed7]},legacy=false] (/[0:0:0:0:0:0:0:1]:44544) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:06:00] [Async Chat Thread - #2/INFO]: <rip_my_drone> hi[m
+
+[15:06:02] [Thread-27/INFO]: UUID of player SIGMABOYS is a4c85139-164e-3113-9dea-f71e7cafb41d
+[15:06:02] [Server thread/INFO]: SIGMABOYS[/[0:0:0:0:0:0:0:1]:50316] logged in with entity id 3260 at ([world]-254.5, 66.0, 198.5)
+[15:06:07] [Server thread/INFO]: rip_my_drone lost connection: Disconnected
+[15:06:07] [Server thread/INFO]: rip_my_drone left the game.
+[15:06:16] [Thread-28/INFO]: UUID of player i_like_men is ae381115-f7cd-3f30-a457-a71521595c0c
+[15:06:16] [Server thread/INFO]: i_like_men[/[0:0:0:0:0:0:0:1]:50848] logged in with entity id 3922 at ([world]-242.39379487207012, 64.0, 283.8058329102277)
+[15:06:32] [Server thread/INFO]: i_like_men issued server command: /tp SIGMABOYS Carson
+[15:06:32] [Server thread/INFO]: [i_like_men: Teleported SIGMABOYS to Carson]
+[15:06:48] [Async Chat Thread - #2/INFO]: <SIGMABOYS> can u tp me to spawn[m
+
+[15:07:03] [Server thread/INFO]: i_like_men issued server command: /tp SIGMABOYS i_like_men
+[15:07:03] [Server thread/INFO]: [i_like_men: Teleported SIGMABOYS to i_like_men]
+[15:07:21] [Server thread/INFO]: SIGMABOYS was burnt to a crisp whilst fighting i_like_men
+[15:07:26] [Server thread/INFO]: SIGMABOYS lost connection: Disconnected
+[15:07:26] [Server thread/INFO]: SIGMABOYS left the game.
+[15:07:59] [Server thread/INFO]: i_like_men issued server command: /tp i_like_men Carson
+[15:07:59] [Server thread/INFO]: [i_like_men: Teleported i_like_men to Carson]
+[15:08:18] [Server thread/INFO]: Carson was shot by i_like_men using [THE WEEWEE TOUCHER]
+[15:08:23] [Server thread/INFO]: i_like_men issued server command: /back
+[15:08:30] [Server thread/INFO]: i_like_men issued server command: /home
+[15:08:33] [Server thread/INFO]: i_like_men issued server command: /kill
+[15:08:33] [Server thread/INFO]: i_like_men fell out of the world
+[15:08:33] [Server thread/INFO]: [i_like_men: Killed i_like_men]
+[15:08:37] [Server thread/INFO]: i_like_men issued server command: /kill all
+[15:08:37] [Server thread/INFO]: [i_like_men: The entity UUID provided is in an invalid format]
+[15:08:43] [Server thread/INFO]: i_like_men issued server command: /help
+[15:08:55] [Server thread/INFO]: i_like_men issued server command: /minecraft
+[15:09:01] [Async Chat Thread - #3/INFO]: <i_like_men> minecraft[m
+
+[15:09:17] [Server thread/INFO]: i_like_men issued server command: /help2
+[15:09:22] [Server thread/INFO]: i_like_men issued server command: /help 2
+[15:09:34] [Server thread/INFO]: i_like_men issued server command: //
+[15:10:02] [Thread-30/INFO]: UUID of player CingDC2012 is 49e28057-17f5-35d4-b0e6-498f151b657e
+[15:10:02] [Server thread/INFO]: CingDC2012[/[0:0:0:0:0:0:0:1]:50114] logged in with entity id 6594 at ([world]-245.2613226285304, 67.23981939381319, 278.96639360519964)
+[15:10:06] [Server thread/INFO]: i_like_men issued server command: //
+[15:10:12] [Server thread/INFO]: i_like_men issued server command: /kill
+[15:10:12] [Server thread/INFO]: i_like_men fell out of the world
+[15:10:12] [Server thread/INFO]: [i_like_men: Killed i_like_men]
+[15:10:27] [Server thread/INFO]: i_like_men lost connection: Disconnected
+[15:10:27] [Server thread/INFO]: i_like_men left the game.
+[15:10:31] [Thread-31/INFO]: UUID of player i_like_men is ae381115-f7cd-3f30-a457-a71521595c0c
+[15:10:31] [Server thread/INFO]: i_like_men[/[0:0:0:0:0:0:0:1]:56574] logged in with entity id 6946 at ([world]-251.67343343809648, 64.0, 281.7714763960824)
+[15:10:49] [Server thread/INFO]: i_like_men issued server command: /kill CingDC2012
+[15:10:49] [Server thread/INFO]: CingDC2012 fell out of the world
+[15:10:49] [Server thread/INFO]: [i_like_men: Killed CingDC2012]
+[15:11:15] [Server thread/INFO]: i_like_men issued server command: /deop CingDC2011
+[15:11:15] [Server thread/INFO]: [i_like_men: De-opped CingDC2011]
+[15:11:18] [Async Chat Thread - #4/INFO]: <CingDC2012> BRO[m
+
+[15:11:22] [Async Chat Thread - #4/INFO]: <CingDC2012> WHY[m
+
+[15:11:23] [Async Chat Thread - #4/INFO]: <i_like_men> ?[m
+
+[15:11:30] [Async Chat Thread - #4/INFO]: <i_like_men> all u did was die[m
+
+[15:11:32] [Async Chat Thread - #4/INFO]: <CingDC2012> U DEOPED ME[m
+
+[15:11:33] [Async Chat Thread - #4/INFO]: <i_like_men> chill[m
+
+[15:11:37] [Async Chat Thread - #4/INFO]: <i_like_men> nope[m
+
+[15:11:45] [Async Chat Thread - #4/INFO]: <i_like_men> i de opped ur 2011 account[m
+
+[15:11:51] [Async Chat Thread - #4/INFO]: <CingDC2012> oh[m
+
+[15:11:54] [Async Chat Thread - #4/INFO]: <i_like_men> u dont need 3 opped accounts[m
+
+[15:12:07] [Server thread/INFO]: i_like_men issued server command: /wild
+[15:12:11] [Server thread/INFO]: i_like_men issued server command: /wild
+[15:12:34] [Async Chat Thread - #4/INFO]: <CingDC2012> THIS SNOW IS SOOOOOOO ANOYING[m
+
+[15:12:41] [Async Chat Thread - #4/INFO]: <i_like_men> like u[m
+
+[15:12:46] [Async Chat Thread - #4/INFO]: <CingDC2012> -_-[m
+
+[15:12:51] [Server thread/INFO]: i_like_men issued server command: /clear snow
+[15:12:51] [Server thread/INFO]: [i_like_men: That player cannot be found]
+[15:12:56] [Server thread/INFO]: i_like_men issued server command: /fire
+[15:13:03] [Server thread/INFO]: i_like_men issued server command: /fireball
+[15:13:09] [Server thread/INFO]: i_like_men issued server command: /help 9
+[15:13:13] [Server thread/INFO]: i_like_men lost connection: Disconnected
+[15:13:13] [Server thread/INFO]: i_like_men left the game.
+[15:13:57] [Server thread/INFO]: CingDC2012 issued server command: /deop i_like_men
+[15:13:57] [Server thread/INFO]: [CingDC2012: De-opped i_like_men]
+[15:14:07] [Server thread/INFO]: De-opped CingDC2012
+[15:14:12] [Server thread/INFO]: Opped i_like_men
+[15:14:24] [Server thread/INFO]: CingDC2012 issued server command: /gamemode s
+[15:14:32] [Async Chat Thread - #5/INFO]: <CingDC2012> WHO DEOPPED ME[m
+
+[15:14:36] [Thread-32/INFO]: UUID of player i_like_men is ae381115-f7cd-3f30-a457-a71521595c0c
+[15:14:36] [Server thread/INFO]: i_like_men[/[0:0:0:0:0:0:0:1]:35572] logged in with entity id 8264 at ([world]-245.01480198448073, 66.86512832193183, 274.14746555225804)
+[15:14:37] [Server thread/INFO]: CingDC2012 lost connection: Disconnected
+[15:14:37] [Server thread/INFO]: CingDC2012 left the game.
+[15:14:38] [Server thread/INFO]: That player cannot be found
+[15:14:52] [Async Chat Thread - #5/INFO]: <i_like_men> why my camera weird[m
+
+[15:14:53] [Thread-33/INFO]: UUID of player Creeper4860 is 55448d8f-3276-33b9-8f2d-f77ec62813e3
+[15:14:53] [Server thread/INFO]: Creeper4860[/[0:0:0:0:0:0:0:1]:55828] logged in with entity id 8296 at ([world]-249.13672501727308, 64.0, 283.96379666752296)
+[15:15:08] [Server thread/INFO]: Creeper4860 issued server command: /op i_like_men
+[15:15:08] [Server thread/INFO]: [Creeper4860: Opped i_like_men]
+[15:15:16] [Server thread/INFO]: Creeper4860 issued server command: /op CingDC2012
+[15:15:16] [Server thread/INFO]: [Creeper4860: Opped CingDC2012]
+[15:15:21] [Async Chat Thread - #5/INFO]: <i_like_men> who de opped me[m
+
+[15:15:26] [Async Chat Thread - #5/INFO]: <i_like_men> and why[m
+
+[15:15:26] [Async Chat Thread - #5/INFO]: <Creeper4860> I opped u[m
+
+[15:15:34] [Async Chat Thread - #5/INFO]: <i_like_men> ik why was i de op[m
+
+[15:15:38] [Async Chat Thread - #5/INFO]: <Creeper4860> IDK[m
+
+[15:15:40] [Server thread/INFO]: Creeper4860 lost connection: Disconnected
+[15:15:40] [Server thread/INFO]: Creeper4860 left the game.
+[15:15:54] [Thread-34/INFO]: UUID of player CingDC2012 is 49e28057-17f5-35d4-b0e6-498f151b657e
+[15:15:54] [Server thread/INFO]: CingDC2012[/[0:0:0:0:0:0:0:1]:42032] logged in with entity id 8344 at ([world]-251.08438902627478, 64.0, 261.504660635104)
+[15:15:59] [Server thread/INFO]: Carson was burnt to a crisp whilst fighting i_like_men
+[15:16:00] [Server thread/INFO]: De-opped Creeper4860
+[15:16:07] [Server thread/INFO]: De-opped CingDC2012
+[15:16:09] [Async Chat Thread - #5/INFO]: <CingDC2012> Bro[m
+
+[15:16:14] [Server thread/INFO]: [Server] you've done too much
+[15:16:15] [Async Chat Thread - #5/INFO]: <i_like_men> wasnt me[m
+
+[15:16:19] [Async Chat Thread - #5/INFO]: <CingDC2012> I need that on opped[m
+
+[15:16:20] [Server thread/INFO]: [Server] not you
+[15:16:28] [Server thread/INFO]: [Server] unopped?
+[15:16:30] [Async Chat Thread - #5/INFO]: <CingDC2012> because everyone deoped me[m
+
+[15:16:30] [Server thread/INFO]: [Server] sure
+[15:16:38] [Async Chat Thread - #5/INFO]: <CingDC2012> OP ME[m
+
+[15:16:42] [Async Chat Thread - #5/INFO]: <CingDC2012> BRO[m
+
+[15:16:47] [Server thread/INFO]: i_like_men issued server command: /gamemode s CingDC2012
+[15:16:47] [Server thread/INFO]: [i_like_men: Set CingDC2012's game mode to Survival Mode]
+[15:16:52] [Async Chat Thread - #5/INFO]: <CingDC2012> STOP[m
+
+[15:16:55] [Async Chat Thread - #5/INFO]: <CingDC2012> NO!!!!!!![m
+
+[15:17:00] [Async Chat Thread - #5/INFO]: <i_like_men> u abuse your power[m
+
+[15:17:04] [Async Chat Thread - #5/INFO]: <CingDC2012> I DIDNT[m
+
+[15:17:07] [Server thread/INFO]: [Server] yeah
+[15:17:13] [Server thread/INFO]: [Server] a little too much
+[15:17:13] [Async Chat Thread - #5/INFO]: <i_like_men> how many op weapons have u made[m
+
+[15:17:14] [Async Chat Thread - #5/INFO]: <CingDC2012> WASNT ME PLS STOP[m
+
+[15:17:21] [Async Chat Thread - #5/INFO]: <CingDC2012> I LOST THEM ALL[m
+
+[15:17:21] [Server thread/INFO]: [Server] so thats it
+[15:17:34] [Thread-35/INFO]: UUID of player SIGMABOYS__ is cdf92fc0-a6b0-32cc-bb11-bb0c7ab1c087
+[15:17:34] [Server thread/INFO]: SIGMABOYS__[/[0:0:0:0:0:0:0:1]:44120] logged in with entity id 8502 at ([world]-235.5, 64.0, 242.5)

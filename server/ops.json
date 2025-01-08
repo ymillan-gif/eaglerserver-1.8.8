@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "ae381115-f7cd-3f30-a457-a71521595c0c",
+    "name": "i_like_men",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "38482278-bb96-3d7b-b423-c62844ef1acd",
+    "name": "Axell_vic",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c021df60-81de-3f00-9b66-51979bd0f5d7",
+    "name": "Gaige_c",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bb5b74c9-6191-376c-bace-e2b30f220c2e",
+    "name": "y_millan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
