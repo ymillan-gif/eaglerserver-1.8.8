@@ -16,6 +16,14 @@
     "reason": "Banned by an operator."
   },
   {
+    "uuid": "55448d8f-3276-33b9-8f2d-f77ec62813e3",
+    "name": "Creeper4860",
+    "created": "2025-01-08 17:08:19 +0000",
+    "source": "y_millan",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "74560b88-0542-39ac-b8b8-5088580833e9",
     "name": "i_just_want_op",
     "created": "2025-01-07 19:09:45 +0000",
@@ -28,14 +36,6 @@
     "name": "gavin",
     "created": "2024-12-20 15:49:47 +0000",
     "source": "y_millan",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "65defd76-b50f-3caa-97c9-d103e3983652",
-    "name": "SIGMA_BOYS",
-    "created": "2025-01-08 15:05:01 +0000",
-    "source": "CingDC2012",
     "expires": "forever",
     "reason": "Banned by an operator."
   },
@@ -76,6 +76,14 @@
     "name": "STOP_BANNING_MEi",
     "created": "2025-01-07 19:13:30 +0000",
     "source": "CingDC2012",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "cdf92fc0-a6b0-32cc-bb11-bb0c7ab1c087",
+    "name": "SIGMABOYS__",
+    "created": "2025-01-09 13:48:25 +0000",
+    "source": "SIGMA_BOYS",
     "expires": "forever",
     "reason": "Banned by an operator."
   }
