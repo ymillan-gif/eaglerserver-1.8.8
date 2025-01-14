@@ -10,6 +10,11 @@ Helldiver32:
     X: -195.43022568176428
     Y: 74.0
     Z: 375.9144324294515
+  base:
+    world: world
+    X: -222.46581020135915
+    Y: 65.0
+    Z: 278.0057196478014
 SIGMA_BOYS:
   CJ's:
     world: world

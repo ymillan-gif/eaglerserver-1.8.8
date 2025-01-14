@@ -1,57 +1,33 @@
 [
   {
-    "uuid": "5d3bf9ef-31e1-3943-9dbc-9947871033da",
-    "name": "WERE_GEO_WEINER",
-    "created": "2025-01-07 19:05:22 +0000",
+    "uuid": "3dcb85eb-edac-3ddf-9063-78f830f3e46c",
+    "name": "CingD_c",
+    "created": "2025-01-09 17:20:10 +0000",
+    "source": "Helldiver32",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0acfafd7-4bf5-30ad-9012-d4a1b353f2de",
+    "name": "CDC",
+    "created": "2025-01-09 17:23:29 +0000",
+    "source": "SIGMA_BOYS",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "025164f0-a4a6-3313-8939-1ae4801bc432",
+    "name": "3724691387147261",
+    "created": "2025-01-09 17:23:02 +0000",
     "source": "i_like_men",
     "expires": "forever",
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "74fbafd8-1722-3fed-9e37-00488074c4e3",
-    "name": "keepDC2024",
-    "created": "2025-01-07 19:12:31 +0000",
-    "source": "CingDC2012",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "55448d8f-3276-33b9-8f2d-f77ec62813e3",
-    "name": "Creeper4860",
-    "created": "2025-01-08 17:08:19 +0000",
-    "source": "y_millan",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "74560b88-0542-39ac-b8b8-5088580833e9",
-    "name": "i_just_want_op",
-    "created": "2025-01-07 19:09:45 +0000",
-    "source": "i_like_men",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "093dac6e-b3f7-3827-9924-6450bdea4120",
-    "name": "gavin",
-    "created": "2024-12-20 15:49:47 +0000",
-    "source": "y_millan",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "8c4091ed-8c57-3715-b395-72cbe1c0ea42",
-    "name": "Haaaahiniha",
-    "created": "2024-12-20 16:30:23 +0000",
-    "source": "i_like_men",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "3aa10d45-6372-352e-b9af-2eba497ed912",
-    "name": "___",
-    "created": "2025-01-07 20:11:57 +0000",
-    "source": "CingDC2012",
+    "uuid": "5fabd3ee-45c7-3758-b280-b3f7b5de055f",
+    "name": "CingD",
+    "created": "2025-01-09 17:19:47 +0000",
+    "source": "Helldiver32",
     "expires": "forever",
     "reason": "Banned by an operator."
   },
@@ -72,6 +48,126 @@
     "reason": "Banned by an operator."
   },
   {
+    "uuid": "cdf92fc0-a6b0-32cc-bb11-bb0c7ab1c087",
+    "name": "SIGMABOYS__",
+    "created": "2025-01-09 13:48:25 +0000",
+    "source": "SIGMA_BOYS",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "5cb6ab59-73ec-3936-8a68-04535ecc7630",
+    "name": "ip",
+    "created": "2025-01-10 19:59:03 +0000",
+    "source": "Gaige_c",
+    "expires": "forever",
+    "reason": "gavin"
+  },
+  {
+    "uuid": "d9a05e96-60d4-3c21-94e5-126c47736675",
+    "name": "gavin_m",
+    "created": "2025-01-10 19:11:12 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "fffa675d-9f1c-3782-9a61-9206fb789981",
+    "name": "N_I_G_G_A",
+    "created": "2025-01-14 14:43:21 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "890b4814-07b6-3471-8bf0-98fd0aaf442d",
+    "name": "Cing",
+    "created": "2025-01-09 17:18:49 +0000",
+    "source": "Helldiver32",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "5d3bf9ef-31e1-3943-9dbc-9947871033da",
+    "name": "WERE_GEO_WEINER",
+    "created": "2025-01-07 19:05:22 +0000",
+    "source": "i_like_men",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "efd478e3-5824-3243-970d-03b1939be10d",
+    "name": "CCCDDD",
+    "created": "2025-01-09 17:24:44 +0000",
+    "source": "i_like_men",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "14702355-73fa-337d-aa76-758a919489f4",
+    "name": "CingDK",
+    "created": "2025-01-09 17:20:41 +0000",
+    "source": "SIGMA_BOYS",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "49e28057-17f5-35d4-b0e6-498f151b657e",
+    "name": "CingDC2012",
+    "created": "2025-01-09 17:18:13 +0000",
+    "source": "Bacon01",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "5e8127e5-646b-36d6-9ff7-ace1050597d8",
+    "name": "Server",
+    "created": "2025-01-10 15:46:15 +0000",
+    "source": "y_millan",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "74fbafd8-1722-3fed-9e37-00488074c4e3",
+    "name": "keepDC2024",
+    "created": "2025-01-07 19:12:31 +0000",
+    "source": "CingDC2012",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "e9279f64-13b8-3671-aed0-bfa4994c585c",
+    "name": "CingDC",
+    "created": "2025-01-09 17:18:28 +0000",
+    "source": "SIGMA_BOYS",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "55448d8f-3276-33b9-8f2d-f77ec62813e3",
+    "name": "Creeper4860",
+    "created": "2025-01-08 17:08:19 +0000",
+    "source": "y_millan",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "74560b88-0542-39ac-b8b8-5088580833e9",
+    "name": "i_just_want_op",
+    "created": "2025-01-07 19:09:45 +0000",
+    "source": "i_like_men",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0c069758-5efc-48a6-8f8f-d448f49ceb60",
+    "name": "sigma_boy",
+    "created": "2025-01-10 19:53:55 +0000",
+    "source": "Bacon01",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "1fae1d6f-52f2-303c-81a9-3453ef2d7cb5",
     "name": "STOP_BANNING_MEi",
     "created": "2025-01-07 19:13:30 +0000",
@@ -80,9 +176,25 @@
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "cdf92fc0-a6b0-32cc-bb11-bb0c7ab1c087",
-    "name": "SIGMABOYS__",
-    "created": "2025-01-09 13:48:25 +0000",
+    "uuid": "8c4091ed-8c57-3715-b395-72cbe1c0ea42",
+    "name": "Haaaahiniha",
+    "created": "2024-12-20 16:30:23 +0000",
+    "source": "i_like_men",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3aa10d45-6372-352e-b9af-2eba497ed912",
+    "name": "___",
+    "created": "2025-01-07 20:11:57 +0000",
+    "source": "CingDC2012",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "19a861bc-403a-3104-b2d8-bb26110b220d",
+    "name": "CD_",
+    "created": "2025-01-09 17:24:03 +0000",
     "source": "SIGMA_BOYS",
     "expires": "forever",
     "reason": "Banned by an operator."

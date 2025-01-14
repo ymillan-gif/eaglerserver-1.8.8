@@ -35,6 +35,12 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
+    load-chunks:
+      enderpearls: false
+      tnt-entities: false
+      falling-blocks: false
+    disable-teleportation-suffocation-check: false
+    falling-block-height-nerf: 0
     remove-unloaded:
       enderpearls: true
       tnt-entities: true
@@ -45,11 +51,9 @@ world-settings:
       disable-chest-cat-detection: false
       disable-end-credits: false
     nether-ceiling-void-damage: false
-    load-chunks:
-      enderpearls: false
-      tnt-entities: false
-      falling-blocks: false
-    disable-teleportation-suffocation-check: false
+    player-blocking-damage-multiplier: 0.5
+    remove-invalid-mob-spawner-tile-entities: true
+    optimize-explosions: false
     mob-spawner-tick-rate: 1
     cache-chunk-maps: false
     tnt-explosion-volume: 4.0
@@ -68,10 +72,6 @@ world-settings:
     despawn-ranges:
       soft: 32
       hard: 128
-    falling-block-height-nerf: 0
-    player-blocking-damage-multiplier: 0.5
-    remove-invalid-mob-spawner-tile-entities: true
-    optimize-explosions: false
     fast-drain:
       lava: false
       water: false
